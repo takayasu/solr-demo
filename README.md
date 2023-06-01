@@ -4,7 +4,7 @@
 6月25日に実施したBTC主催のSolr勉強会のデモ（空間検索）を公開します。
 
 ## 勉強会資料
-http://www.slideshare.net/taka1970/solr-44144444
+https://speakerdeck.com/takayasu/solrmian-qiang-hui-2015
 
 ## 構成
 
